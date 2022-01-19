@@ -3,7 +3,8 @@
 
 ![version](https://img.shields.io/github/manifest-json/v/Natjo/tabs)  
 
-Element scrollable horizontally and swipable on non touchable devices
+Accessible tab with automatic activation
+TODO if not auto
 ## Usage
 
 ### html
@@ -16,10 +17,10 @@ Element scrollable horizontally and swipable on non touchable devices
 		
 <div class="tabs-content">
     <div class="tabs-panel" role="tabpanel" aria-expanded="true" aria-hidden="false" id="panel-1">
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem ipsum maxime officia qui amet, facilis quas recusandae soluta deleniti incidunt iure cum eum, tempore quo repudiandae atque quasi sed! <a href="">lorem link</a> Perferendis, reiciendis placeat similique iusto in veniam exercitationem sapiente labore perspiciatis rem, amet quae doloremque eligendi molestiae dolore
+        Dolorem ipsum maxime officia qui amet, facilis quas recusandae soluta deleniti incidunt iure cum eum, tempore quo repudiandae atque quasi sed! <a href="">lorem link</a> Perferendis, reiciendis placeat similique iusto in veniam exercitationem sapiente labore perspiciatis rem, amet quae doloremque eligendi molestiae dolore
     </div>
     <div class="tabs-panel" role="tabpanel" aria-expanded="true" aria-hidden="true" id="panel-2">
-        <img	src="https://picsum.photos/id/662/200/200">
+        <img src="https://picsum.photos/id/662/200/200">
     </div>
     <div class="tabs-panel" role="tabpanel" aria-expanded="true" aria-hidden="true" id="panel-3">
         <form>
