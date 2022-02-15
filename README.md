@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/github/manifest-json/v/Natjo/tabs)  
 
-Accessible tab with automatic activation 
+Accessible tab with automatic activation.  
 TODO if not auto
 ## Usage
 
@@ -32,7 +32,7 @@ TODO if not auto
 
 ### javascript
 ```javascript
-import scrollerHorizontal from '../../modules/tabs/tabs.js';
+import tabs from '../../modules/tabs/tabs.js';
 
 tabs(document.querySelector('.tabs'));
 ```
