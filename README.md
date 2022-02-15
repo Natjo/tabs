@@ -40,16 +40,16 @@ tabs(document.querySelector('.tabs'));
 ### css
 ```css
 .tabs  {
-	button{
-		&:hover, &[aria-selected="true"]{
-			background-color: aliceblue;
-		}
-	}
+    button{
+        &:hover, &[aria-selected="true"]{
+        background-color: aliceblue;
+        }
+    }
 }
 .tabs-panel {
-	&[aria-hidden="true"] {
-		display: none;
-	}
+    &[aria-hidden="true"] {
+        display: none;
+    }
 }
 ```
 
