@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/github/manifest-json/v/Natjo/tabs)  
 
-Accessible tab with automatic activation
+Accessible tab with automatic activation 
 TODO if not auto
 ## Usage
 
